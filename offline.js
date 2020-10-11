@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1602040127,
+	"version": 1602450988,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,9 @@
 		"images/tiledbackground.png",
 		"images/coneofvision-sheet0.png",
 		"images/plainface-sheet0.png",
+		"images/joystickbacking-sheet0.png",
+		"images/joystick-sheet0.png",
+		"images/joystickmount-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
